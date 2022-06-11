@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b237d29-63b7-43a8-b7d7-6a340b165a28" name="变更" comment="学到选择排序">
+    <list default="true" id="9b237d29-63b7-43a8-b7d7-6a340b165a28" name="变更" comment="学到插入排序">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654940467164</updated>
-      <workItem from="1654940468993" duration="4299000" />
+      <workItem from="1654940468993" duration="5692000" />
     </task>
     <task id="LOCAL-00001" summary="排序算法初建目">
       <created>1654941417802</created>
@@ -120,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654950539720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="学到插入排序">
+      <created>1654951457976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654951457976</updated>
+    </task>
+    <task id="LOCAL-00005" summary="学到插入排序">
+      <created>1654951466475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654951466475</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="排序算法初建目" />
     <MESSAGE value="学到选择排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="学到选择排序" />
+    <MESSAGE value="学到插入排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="学到插入排序" />
   </component>
 </project>
