@@ -14,16 +14,21 @@ public class HillSort {
                 int j=i-step;
                 while(j>=0&&arr[j]>temp)
                 {
-                    arr[j+temp]=arr[j];
+                    arr[j+step]=arr[j];
                     j -= step;
                 }
-                arr[j+temp]=temp;
+                arr[j+step]=temp;
             }
         }
         return arr;
     }
 
     public static void main(String[] args) {
-
+        HillSort hillSort = new HillSort();
+        int[] sort = hillSort.Sort(new int[]{1, 5, 3, 2, 9, 5, 3});
+        for (int number:
+             sort) {
+            System.out.println(number);
+        }
     }
 }
