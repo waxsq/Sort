@@ -112,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654940467164</updated>
-      <workItem from="1654940468993" duration="6442000" />
+      <workItem from="1654940468993" duration="8690000" />
     </task>
     <task id="LOCAL-00001" summary="排序算法初建目">
       <created>1654941417802</created>
@@ -163,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654955546784</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="学到希尔排序">
+      <created>1654956253780</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654956253780</updated>
+    </task>
+    <task id="LOCAL-00009" summary="学到希尔排序">
+      <created>1654956283032</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654956283032</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
