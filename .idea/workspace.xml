@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9b237d29-63b7-43a8-b7d7-6a340b165a28" name="变更" comment="学到希尔排序">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/希尔排序/HillSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/希尔排序/HillSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654940467164</updated>
-      <workItem from="1654940468993" duration="8690000" />
+      <workItem from="1654940468993" duration="13011000" />
     </task>
     <task id="LOCAL-00001" summary="排序算法初建目">
       <created>1654941417802</created>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654956283032</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="学到希尔排序">
+      <created>1654999893045</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654999893045</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
